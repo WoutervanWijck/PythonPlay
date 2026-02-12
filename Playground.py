@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
-Testing = 'dit is gewoon even testen'
-print(Testing)
+Testing3 = 'dit is gewoon even testen'
+print(Testing3)
 
 df = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
 print(df)
@@ -14,3 +14,5 @@ print(df2)
 print(df3)
 tag = 'dit is een tag'
 new = 'we gaan nu proberen dit in VS Code te krijgen'
+
+branc = 'We gaan kijken of dit te mergen valt'
