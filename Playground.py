@@ -13,3 +13,4 @@ df2.insert(0, "Kolom 0", [10, 11, 12])
 print(df2)
 print(df3)
 tag = 'dit is een tag'
+new = 'we gaan nu proberen dit in VS Code te krijgen'
